@@ -25,8 +25,8 @@ body {
 
 #profilePicture, #profilePicture img {
     position: relative;
-    width: 96px;
-    height: 96px;
+    width: 128px;
+    height: 128px;
     display: block;
     margin: 40px auto 20px;
     border-radius: 50%;
@@ -136,7 +136,6 @@ body {
 
 
 /*-------------------------popup------------------------*/
-/* credits: https://www.youtube.com/watch?v=lAS2glU0xlc */
 .overlay {
     display: flex;
     align-items: center;
@@ -238,7 +237,6 @@ body {
 
 
 /*-----------------------parallax-----------------------*/
-/* credits: https://www.youtube.com/watch?v=aywzn9cf-_U */
 #stars1 {
     width: 1px;
     height: 1px;
